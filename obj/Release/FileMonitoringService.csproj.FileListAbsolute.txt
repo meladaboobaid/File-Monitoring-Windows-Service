@@ -1,0 +1,7 @@
+D:\Desktop\Course 24\FileMonitoringService\FileMonitoringService\bin\Release\FileMonitoringService.exe.config
+D:\Desktop\Course 24\FileMonitoringService\FileMonitoringService\bin\Release\FileMonitoringService.exe
+D:\Desktop\Course 24\FileMonitoringService\FileMonitoringService\bin\Release\FileMonitoringService.pdb
+D:\Desktop\Course 24\FileMonitoringService\FileMonitoringService\obj\Release\FileMonitoringService.csproj.AssemblyReference.cache
+D:\Desktop\Course 24\FileMonitoringService\FileMonitoringService\obj\Release\FileMonitoringService.csproj.CoreCompileInputs.cache
+D:\Desktop\Course 24\FileMonitoringService\FileMonitoringService\obj\Release\FileMonitoringService.exe
+D:\Desktop\Course 24\FileMonitoringService\FileMonitoringService\obj\Release\FileMonitoringService.pdb
